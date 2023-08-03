@@ -1,6 +1,10 @@
-## Olá! Eu sou a Natalia Mikaellen🪐
+## Olá! Eu sou a Natalia Mikaellen
 
-✨✨✨✨✨✨✨✨✨✨
+Tecnologias : 
+Admin Microsoft corporation 
+Power BI
+SQL / Python / JS
+
 
 <div>
   
