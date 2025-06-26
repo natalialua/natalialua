@@ -1,12 +1,15 @@
-## Olá! Eu sou a Natalia Mikaellen
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia Mikaellen
+=========================================================================================================================================
 
-Tecnologias : 
+Full-Stack Developer
+--------------------
 
-Admin Microsoft corporation
+Tech professional with 5+ years of experience. Started with HTML, JavaScript, and SQL building a ticketing platform for a national industry. Worked as a Full Stack Developer using Java, prototyping, documentation, and software testing. Currently focused on Power BI dashboards, process automation, and developing a cost calculation app in Python.
 
-Power BI
-
-SQL / Python / JS
+*   🌍  I'm based in Anápolis GO
+*   ✉️  You can contact me at [nataliamikaellen@hotmail.com](mailto:nataliamikaellen@hotmail.com)
+*   🧠  I'm learning I'm currently learning Artificial Intelligence (IA) for data analysis.
+*   🤝  I'm open to collaborating on I'm interested in projects involving QA, software testing, validation, prototyping, development, and data analysis.
 
 
 <div>
