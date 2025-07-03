@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-Tech professional with 5+ years of experience. Started with HTML, JavaScript, and SQL building a ticketing platform for a national industry. Worked as a Full Stack Developer using Java, prototyping, documentation, and software testing. Currently focused on Power BI dashboards, process automation, and developing a cost calculation app in Python.
+Tech professional with 4+ years of experience. Started with HTML, JavaScript, and SQL building a ticketing platform for a national industry. Worked as a Full Stack Developer using Java, prototyping, documentation, and software testing. Currently focused on Power BI dashboards, process automation, and developing a cost calculation app in Python.
 
 *   🌍  I'm based in Anápolis GO
 *   ✉️  You can contact me at [nataliamikaellen@hotmail.com](mailto:nataliamikaellen@hotmail.com)
